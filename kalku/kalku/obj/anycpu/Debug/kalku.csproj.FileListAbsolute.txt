@@ -1,0 +1,6 @@
+/Users/chintyadewi/Projects/kalku/kalku/bin/Debug/kalku.exe
+/Users/chintyadewi/Projects/kalku/kalku/bin/Debug/kalku.pdb
+/Users/chintyadewi/Projects/kalku/kalku/obj/anycpu/Debug/kalku.csprojAssemblyReference.cache
+/Users/chintyadewi/Projects/kalku/kalku/obj/anycpu/Debug/kalku.csproj.CoreCompileInputs.cache
+/Users/chintyadewi/Projects/kalku/kalku/obj/anycpu/Debug/kalku.exe
+/Users/chintyadewi/Projects/kalku/kalku/obj/anycpu/Debug/kalku.pdb
